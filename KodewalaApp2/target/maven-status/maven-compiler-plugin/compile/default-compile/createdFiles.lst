@@ -1,0 +1,6 @@
+com\kodewala\config\JpaConfig.class
+com\kodewala\controller\StudentController.class
+com\kodewala\service\StudentService.class
+com\kodewala\service\StudentServiceImpl.class
+com\kodewala\entity\Student.class
+com\kodewala\repository\StudentRepository.class
